@@ -28,3 +28,27 @@ From the above image we can see where the majority of users are deciding to firs
 By determining the checkout times for users we can see that most tripduration last about 5 minutes with almost 0 trips lasting over an hour. This helps determine that most people are using the city bikes short distances.
 
 
+![image](https://user-images.githubusercontent.com/85451089/134846506-674b0897-4dde-48ed-8198-4634da1b67f8.png)
+
+As shown in the chart above the tripduration does not seem to matter depending on gender. From the looks of it both Males and Females use the citibike for 5 minutes and rarely do either go over an hour. The unknown group however does not peak but rather plateau between 0 and about 30 minutes of usage time.
+
+
+![image](https://user-images.githubusercontent.com/85451089/134846807-40a7e2b5-a1d8-4c68-9dc5-bea4cb99f867.png)
+
+Above we see that the majority of rides at the peak hours 6-7pm are being taken during the weekdays and same can be said about the spike from 7-8am. This helps justify that many of the riders are using the bikes to and from their workplace. 
+
+
+![image](https://user-images.githubusercontent.com/85451089/134847039-a32f8e57-ca6a-44a1-a583-0278331a28c5.png)
+
+By separating the amount of trips into the different genders we can see that a large amount of males seem to bike to and from work using citibike. The Females also seem to have more trips during this time, but the male population that uses citibike is much larger than the female population as we noticed in our gender breakdown.
+
+
+![image](https://user-images.githubusercontent.com/85451089/134847219-dd82f53e-b997-4478-a2bd-5e13fdc0653f.png)
+
+Many males become subscribers and use citibike a large amount of the time everyday of the week. Females show that there is a smaller gap between women who choose to subscribe and women who do not. Although there is not much color difference in women who subscribe and those who are not, it could be due to the large disparity in male users.
+
+
+## Summary
+In conclusion we see that citibike has been very successful in the male population and helps many people find an alternative route to work and home. We could use the data above to help market the way people use bikesharing in Des Moines and have a clearer understanding of the target audience. 
+There could however be more charts to help us paint a clearer picture of the type of person that use bikesharing as an alternative form of transportation. We could have also grouped birth years and determine what age group is using citibike most. This will help get a clear understanding as to the generation that uses bikesharing the most.
+We could also further prove our hypothesis that these bikes are being used mainly to get to and from work by comparing starting and ending locations. If we see that they are starting around neighborhoods and ending at specific places each time a user travels using a citibike, we can confidently say that their major use is to get to and from work. This will help us pick appropriate placements for the bikesharing stations in Des Moines. 
