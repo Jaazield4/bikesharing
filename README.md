@@ -23,3 +23,8 @@ During the month of August we can see that the peak hours come at 6 and 7 pm. Th
 From the above image we can see where the majority of users are deciding to first pick up and use their citibike. As we can see there is a lot more in the Manhattan area as oposed to other areas. This could be due to the large number of tourists that populate the area as well as the amount of traffic typically seen in this part of the city.
 
 
+![image](https://user-images.githubusercontent.com/85451089/134845814-c3601788-edcd-438c-b2b4-65fadc369d92.png)
+
+By determining the checkout times for users we can see that most tripduration last about 5 minutes with almost 0 trips lasting over an hour. This helps determine that most people are using the city bikes short distances.
+
+
